@@ -1,6 +1,6 @@
 # ☁️ AWS Certified Cloud Practitioner (CLF-C02) - Study Notes
 
-**Course:** AWS Certified Cloud Practitioner by Stéphane Maarek  
+**Note:** *These notes are compiled from the AWS Certified Cloud Practitioner course by Stéphane Maarek. Use these notes as a study guide along with hands-on practice and official AWS documentation.* 📚
 **Exam Code:** CLF-C02  
 
 ---
@@ -2847,4 +2847,4 @@ Launch 3rd party high-performance file systems on AWS
 
 **End of Study Notes** ✅
 
-*These notes are compiled from the AWS Certified Cloud Practitioner course by Stéphane Maarek. Use these notes as a study guide along with hands-on practice and official AWS documentation.* 📚
+
