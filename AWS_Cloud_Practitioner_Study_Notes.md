@@ -2,7 +2,6 @@
 
 **Course:** AWS Certified Cloud Practitioner by Stéphane Maarek  
 **Exam Code:** CLF-C02  
-**Source:** Course notes extracted from PDF
 
 ---
 
